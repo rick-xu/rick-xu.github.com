@@ -1,2 +1,2 @@
-# rickk-xu.github.com
+# rick-xu.github.com
 github pages
